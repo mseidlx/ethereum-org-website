@@ -35,8 +35,8 @@ const NetworkSubComponent = ({ network }) => {
                         <p>Shows how long the networks has been operational.</p>
                         <p>
                           Data from{" "}
-                          <InlineLink href="https://growthepie.xyz">
-                            Growthepie
+                          <InlineLink href="https://growthepie.com">
+                            growthepie
                           </InlineLink>
                           .
                         </p>
